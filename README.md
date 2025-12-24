@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">💡 Explore my  <a href="https://github.com/klara6/project-showcase">project showcase.</a><br><br>🖥️ Check out my <a href="https://klara6.github.io/">portfolio.</a>
+<p align="left">💡 Explore my  <a href="https://github.com/klara6/project-showcase">project showcase.</a><br><br>🖥️ Check out my <a href="https://klara6.github.io/klara-portfolio/">portfolio.</a>
 
 ###
 
