@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello 👋 I'm Klara</h1>
+<h1 align="center">Hello, I'm Klara 👾</h1>
 
 ###
 
@@ -12,15 +12,15 @@
 
 ###
 
-<p align="left">👩‍💻 I am a law student based in London with a passion for coding, machine learning, and building applications.</p>
+<p align="left">I am a law student based in London with a passion for coding, machine learning, and building applications.</p>
 
 ###
 
-<h2 align="left">🚀 Projects</h2>
+<h2 align="left">🛠️ Projects</h2>
 
 ###
 
-<p align="left">💡 Explore my  <a href="https://github.com/klara6/project-showcase">project showcase.</a><br><br>🖥️ Check out my <a href="https://klara6.github.io/klara-portfolio/">portfolio website.</a>
+<p align="left">→ Explore my  <a href="https://github.com/klara6/project-showcase">project showcase.</a><br><br>→ Check out my <a href="https://klara6.github.io/klara-portfolio/">portfolio website.</a>
 
 ###
 
