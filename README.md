@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Klara, a law student based in London with a passion for coding, machine learning, and building applications.</p>
+<p align="left">I'm Klara, an aspiring software engineer based in London with a passion for coding, machine learning, and building applications.</p>
 
 ###
 
