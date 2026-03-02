@@ -8,6 +8,14 @@
 
 ###
 
+<h2 align="left">🌟 About Me</h2>
+
+###
+
+<p align="left">I'm Klara, an aspiring software engineer based in London.</p>
+
+###
+
 <h2 align="left">🛠️ Projects</h2>
 
 ###
@@ -16,7 +24,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect</h2>
+<h2 align="left">🌐 Let's Connect</h2>
 
 ###
 
